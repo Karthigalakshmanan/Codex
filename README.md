@@ -1,5 +1,5 @@
 # CodeX - Consumer Insights & Growth Strategy
-This is a resume project challenge by Codebasics.
+This is a resume project challenge conducted by Codebasics.
 
 ## 📊 Situation
 CodeX is a German beverage company aiming to establish its presence in the Indian market. A few months ago, they launched their energy drink in 10 Indian cities. The marketing team is focused on increasing brand awareness, market share, and supporting product development.
