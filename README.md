@@ -14,7 +14,7 @@ Cleaned and analyzed the survey data using MySQL.
 
 Built dashboards and visualizations in Power BI to highlight key insights.
 
-Prepared a strategic presentation using Canva for stakeholder communication.
+Prepared a strategic [presentation] (https://github.com/Karthigalakshmanan/Codex/blob/main/Codex_RPC_6.pdf) using Canva for stakeholder communication.
 
 ## 💡 Results
 Delivered data-driven insights and recommendations to the marketing team.
